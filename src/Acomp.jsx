@@ -1,7 +1,7 @@
 import React from "react";
 
 const Acomp = () => {
-  return <div>Acompsdgfjdsgfsaashdsdfhbsdhjfbasdfsdf</div>;
+  return <div>Acompsdgfjdsgfsaashdsdfhbsdhjfb</div>;
 };
 
 export default Acomp;
